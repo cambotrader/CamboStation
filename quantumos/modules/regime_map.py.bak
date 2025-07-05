@@ -1,0 +1,17 @@
+﻿from signal_overlay import get_recent_signals
+
+def draw_regime_map():
+    import streamlit as st
+    signals = get_recent_signals()
+    regime_summary = []
+    for s in signals:
+        regime = "Expansion" if s["conviction"] > 0.75 else "Consolidation"
+        regime_summary.append({
+            "session": s["timestamp"],
+            "regime": regime,
+            "dominant": s["archetype"],
+            "tone": s["mood"],
+            "conviction_avg": round(s["conviction"],2)
+        })
+    for row in regime_summary:
+        st.markdown(f"🕒 {row['session']} | Regime: **{row['regime']}** | Dominant: {row['dominant']} | Tone: {row['tone']} | Conviction Avg: `{row['conviction_avg']}`")
