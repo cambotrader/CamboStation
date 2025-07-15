@@ -1,0 +1,7 @@
+﻿codex_beliefs = {
+    "Conviction before chaos": {"resonance": 0.78, "mutation_risk": 0.14},
+    "Delay is a teacher": {"resonance": 0.92, "mutation_risk": 0.05},
+    "Bias mirrors truth": {"resonance": 0.66, "mutation_risk": 0.21}
+}
+def get_codex_state():
+    return codex_beliefs
