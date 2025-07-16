@@ -2,3 +2,17 @@ streamlit
 pandas
 numpy
 plotly
+backtrader
+ta-lib
+openai
+requests
+pyyaml
+scikit-learn
+beautifulsoup4
+fastapi
+uvicorn
+langchain
+crewai
+vaderSentiment
+torch
+transformers
