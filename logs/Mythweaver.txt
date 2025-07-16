@@ -1,0 +1,1 @@
+Macro setup echoes the ‘Wanderer Ascends’ archetype.

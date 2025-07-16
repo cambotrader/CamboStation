@@ -1,0 +1,16 @@
+?? CamboStationVision — Symbolic System Blueprint
+
+[belief_codex.py] --? [identity_myth_engine.py]
+           ¦                    ¦
+           ?                    ?
+[persona_volatility_tracker.py] ? [strategy_lab.py]
+           ¦                            ¦
+           ?                            ?
+  [signal_overlay.py]  --?  [ritual_composer.py] --?  [execution_playlist.py]
+                                   ¦
+                                   ?
+                        [mission_dashboard.py]
+
+Legend:
+?  indicates directional data flow or activation
++-? represents symbolic fusion or narrative handoff

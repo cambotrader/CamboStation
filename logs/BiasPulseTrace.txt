@@ -1,0 +1,6 @@
+﻿Event           | Rate Signal | Crowd Pulse | Reaction Bias | Status
+---------------------------------------------------------------------
+FOMC Minutes     | Hawkish     | Dovish      | +0.41          | Split
+CPI Release      | Neutral     | Aggressive  | -0.28          | Diverged
+Jobs Report      | Bullish     | Mild        | +0.17          | Confirmed
+PPI Report       | Dovish      | Defensive   | -0.35          | Lagging

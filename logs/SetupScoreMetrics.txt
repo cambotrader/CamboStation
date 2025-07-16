@@ -1,0 +1,6 @@
+﻿Metric                  | Value     | Threshold | Status
+---------------------------------------------------------------
+Conviction Integrity     | 91%       | >85%      | ✅
+Tone Drift Index         | 17%       | <25%      | ✅
+Myth Arc Cohesion        | 88%       | >80%      | ✅
+Setup Replay Confidence  | 94%       | >90%      | ✅

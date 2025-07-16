@@ -1,0 +1,32 @@
+﻿[
+  {
+    "scenario": "Fed Hawkish + Gamma Surge",
+    "council": ["Cipher", "Gemini"],
+    "macro_catalyst": "Fed Minutes Leak",
+    "sector_bias": {
+      "XLF": "Bearish",
+      "XLK": "Neutral"
+    },
+    "recommendation": "Avoid finance; tech scalp only"
+  },
+  {
+    "scenario": "Retail Miss + Theta Drift",
+    "council": ["Cipher"],
+    "macro_catalyst": "Retail Sales Decline",
+    "sector_bias": {
+      "XLF": "Bearish",
+      "XLE": "Neutral"
+    },
+    "recommendation": "Bearish put rotation on financials"
+  },
+  {
+    "scenario": "Energy Spike + Myth Tone Overlay",
+    "council": ["Mythweaver"],
+    "macro_catalyst": "Crude Inventory",
+    "sector_bias": {
+      "XLE": "Poetic Bullish",
+      "XLK": "Choppy Neutral"
+    },
+    "recommendation": "Swing call overlay on energy"
+  }
+]

@@ -1,0 +1,2 @@
+07/12/25 15:07:25 | TradeCandidate | NVDA | Strategy: Scalp +1 ATR | IV hedge | GreeksTone: Gamma positive skew | Delta expansion
+07/12/25 15:15:13 | TradeCandidate | NVDA | Strategy: Scalp +1 ATR | IV hedge | Tone: Gamma skew | Delta expansion

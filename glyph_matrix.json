@@ -1,0 +1,17 @@
+{
+  "glyph_map": {
+    "belief_codex.py": ["identity_myth_engine.py", "persona_volatility_tracker.py"],
+    "identity_myth_engine.py": ["strategy_lab.py", "ritual_composer.py"],
+    "persona_volatility_tracker.py": ["signal_overlay.py"],
+    "signal_overlay.py": ["ritual_composer.py"],
+    "ritual_composer.py": ["execution_playlist.py"],
+    "execution_playlist.py": ["mission_dashboard.py"],
+    "story_engine.py": ["narrative_composer.py"],
+    "strategy_lab.py": ["strategy_feedback_loop.py"]
+  },
+  "legend": {
+    "?": "data or signal transfer",
+    "?": "symbolic activation",
+    "?": "confirmation or ritual handoff"
+  }
+}

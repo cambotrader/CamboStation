@@ -1,0 +1,7 @@
+﻿Date       | Event Trigger     | Asset   | Bias Shift | Impact Tier | Notes
+-----------------------------------------------------------------------------
+07/12/25   | CPI Release        | SPY     | Bullish    | Tier 2      | Inflation cool-off surprise
+07/12/25   | Fed Minutes Leak   | TLT     | Bearish    | Tier 1      | Hawkish stance confirmed
+07/13/25   | NVDA Earnings      | NVDA    | Neutral    | Tier 3      | Beat expectations, but cautious tone
+07/14/25   | Treasury Auction   | DXY     | Bullish    | Tier 2      | Strong demand reflected
+07/14/25   | Taiwan Trade Talks | TSLA    | Bearish    | Tier 1      | Supply chain concerns

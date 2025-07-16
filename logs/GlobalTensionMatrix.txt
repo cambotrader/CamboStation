@@ -1,0 +1,6 @@
+﻿Region     | Tone Index | Rate Bias | Macro Stress | Alert Level
+---------------------------------------------------------------
+US         | +0.82       | Hawkish    | Elevated      | Orange
+EU         | +0.61       | Neutral    | Moderate      | Yellow
+Asia       | +0.95       | Dovish     | Low           | Green
+EM         | -0.44       | Reactive   | Chaotic       | Red

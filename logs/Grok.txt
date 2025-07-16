@@ -1,0 +1,1 @@
+Tone drift at 12%. Setup emotion may collapse.

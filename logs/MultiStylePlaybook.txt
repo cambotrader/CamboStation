@@ -1,0 +1,6 @@
+﻿Style         | Trigger Setup       | Bias    | Target Zone     | Risk Layer
+------------------------------------------------------------------------
+Scalp         | VWAP reclaim        | Bullish | 0.5R target      | Tight
+Day Trade     | Opening range break | Neutral | 1.5R target      | Moderate
+Swing Trade   | 3EMA crossover      | Bullish | Weekly high zone | Layered
+Strategic     | Fed shift setup     | Bearish | Multi-week down  | Expanded

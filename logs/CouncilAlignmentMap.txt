@@ -1,0 +1,7 @@
+﻿Persona     | Alignment Score | Confidence Tone | Conflict Flag | Setup Bias
+---------------------------------------------------------------------------
+Gemini      | 89              | Assertive        | No             | Bullish
+Mari        | 76              | Reflective       | Yes            | Neutral
+Mythweaver | 94              | Poetic           | No             | Bullish
+Cipher      | 62              | Inverted         | Yes            | Bearish
+Grok        | 81              | Analytical       | No             | Bullish

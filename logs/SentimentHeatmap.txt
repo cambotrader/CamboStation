@@ -1,0 +1,5 @@
+﻿Symbol     | Volume Surge | Short Float | Squeeze Score | Triggered
+---------------------------------------------------------------
+GME        | High         | 24%         | 92             | Yes
+AMC        | Moderate     | 18%         | 76             | No
+BBBY       | Low          | 35%         | 81             | Yes

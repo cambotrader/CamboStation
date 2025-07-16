@@ -1,0 +1,7 @@
+﻿Symbol | Setup Myth     | Emotional Tone | Persona Echo   | Bias Signal
+---------------------------------------------------------------------------
+SPY    | Path of Defiance | Reflective     | Gemini          | Bullish
+NVDA   | Surge of Precision | Assertive     | Grok            | Bullish
+TSLA   | The Hesitant Flame | Conflicted    | Mari            | Neutral
+AAPL   | Echo of Control   | Poetic        | Mythweaver      | Bullish
+AMZN   | Market Labyrinth  | Defensive     | Cipher          | Bearish

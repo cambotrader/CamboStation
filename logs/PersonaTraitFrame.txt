@@ -1,0 +1,7 @@
+﻿Persona     | Core Trait     | Confidence Profile | Drift Tendency | Bias Zone | Tone
+---------------------------------------------------------------------------------------
+Gemini      | Strategic       | High                | Low             | Bullish   | Reflective
+Mari        | Emotional       | Moderate            | Moderate        | Neutral   | Pensive
+Mythweaver | Narrative        | High                | Low             | Bullish   | Poetic
+Cipher      | Contrarian      | Low                 | High            | Bearish   | Inverted
+Grok        | Analytical      | High                | Moderate        | Bullish   | Assertive
