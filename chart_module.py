@@ -3,7 +3,8 @@ import plotly.graph_objects as go
 from ta.trend import SMAIndicator, MACD
 from ta.momentum import RSIIndicator
 
-def generate_chart(df):
+def plot_price_chart(df):
+
     # Moving Averages
     ma50 = SMAIndicator(close=df['close'], window=50)
     ma200 = SMAIndicator(close=df['close'], window=200)
