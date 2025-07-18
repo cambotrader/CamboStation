@@ -1,13 +1,26 @@
-﻿import talib
 import pandas as pd
 import plotly.graph_objects as go
+from ta.trend import SMAIndicator, MACD
+from ta.momentum import RSIIndicator
 
 def generate_chart(df):
-    df['MA50'] = talib.SMA(df['close'], timeperiod=50)
-    df['MA200'] = talib.SMA(df['close'], timeperiod=200)
-    df['RSI'] = talib.RSI(df['close'], timeperiod=14)
-    macd, macdsignal, macdhist = talib.MACD(df['close'])
+    # Moving Averages
+    ma50 = SMAIndicator(close=df['close'], window=50)
+    ma200 = SMAIndicator(close=df['close'], window=200)
+    df['MA50'] = ma50.sma_indicator()
+    df['MA200'] = ma200.sma_indicator()
 
+    # RSI
+    rsi = RSIIndicator(close=df['close'], window=14)
+    df['RSI'] = rsi.rsi()
+
+    # MACD
+    macd_obj = MACD(close=df['close'])
+    df['macd'] = macd_obj.macd()
+    df['macd_signal'] = macd_obj.macd_signal()
+    df['macd_hist'] = macd_obj.macd_diff()
+
+    # Chart
     fig = go.Figure(data=[go.Candlestick(
         x=df['date'],
         open=df['open'],
