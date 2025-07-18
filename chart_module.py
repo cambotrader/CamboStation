@@ -2,7 +2,8 @@
 import pandas as pd
 import plotly.graph_objects as go
 
-def generate_chart(df):
+def plot_price_chart(df):
+
     df['MA50'] = talib.SMA(df['close'], timeperiod=50)
     df['MA200'] = talib.SMA(df['close'], timeperiod=200)
 

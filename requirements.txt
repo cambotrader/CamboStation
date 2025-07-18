@@ -1,9 +1,10 @@
 streamlit
+yfinance
 pandas
 numpy
 plotly
 backtrader
-ta-lib
+ta
 openai
 requests
 pyyaml
